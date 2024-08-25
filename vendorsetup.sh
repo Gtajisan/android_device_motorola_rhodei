@@ -7,4 +7,4 @@
 
 add_lunch_combo twrp_rhodei-user
 add_lunch_combo twrp_rhodei-userdebug
-add_lunch_combo twpr_rhodei-eng
+add_lunch_combo twrp_rhodei-eng
