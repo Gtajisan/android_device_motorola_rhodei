@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_rhodei.mk
+    $(LOCAL_DIR)/twrp_rhodei.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_rhodei-user \
-    omni_rhodei-userdebug \
-    omni_rhodei-eng
+    twrp_rhodei-user \
+    twrp_rhodei-userdebug \
+    twrp_rhodei-eng
